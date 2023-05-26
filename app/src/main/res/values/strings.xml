@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IndonesianSpecialFood</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="empty_favorite">Tidak ada list favorite.</string>
+    <string name="placeholder_search">Cari Makanan Khas daerah mu?</string>
+    <string name="my_email">rondimarten@gmail.com</string>
+    <string name="my_name">Rondi</string>
+    <string name="about_me">About Me</string>
+    <string name="back">Back</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="remove_favorite">Remove from Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="empty_data">Data Kosong</string>
+</resources>
